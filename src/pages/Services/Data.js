@@ -2,11 +2,11 @@ export const homeObjOne = {
     lightBg: false,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Exclusive Access',
-    headline: 'Unlimited Transactions with zero fees',
+    topLine: 'Accès exclusif',
+    headline: "Beaucoup d'événements auxquels vous pouvez répondre",
     description:
-      'Get access to our exclusive diamond card that allows you to  send unlimited transactions without getting charged any fees',
-    buttonLabel: 'Get Started',
+      "Les événements sont des actions ou des occurrences qui se produisent dans le système que vous programmez et dont le système vous informe afin que vous puissiez y répondre d'une manière ou d'une autre si vous le souhaitez.",
+    buttonLabel: 'Resérvez',
     imgStart: '',
     img: require('../../images/svg-1.svg'),
     alt: 'Credit Card'
@@ -30,11 +30,11 @@ export const homeObjOne = {
     lightBg: true,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Easy Setup',
-    headline: 'Super fast and simple onboarding process',
+    topLine: 'Facilité',
+    headline: "Une série d'événements heureux",
     description:
-      "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
-    buttonLabel: 'Start Now',
+      "Votre événement est un moment spécial, riche en rencontres et en émotions. Du moins, tel est l’un des objectifs de celui-ci, n’est-ce pas ?",
+    buttonLabel: 'Plus',
     imgStart: 'start',
     img: require('../../images/svg-1.svg'),
     alt: 'Vault'

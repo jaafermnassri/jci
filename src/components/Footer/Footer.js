@@ -36,42 +36,42 @@ function Footer() {
     <FooterContainer>
       <FooterSubscription>
         <FooterSubHeading>
-          Join our exclusive membership to receive the latest news and trends
+        Rejoignez notre adhésion exclusive pour recevoir les dernières nouvelles et tendances
         </FooterSubHeading>
-        <FooterSubText>You can unsubscribe at any time.</FooterSubText>
+        <FooterSubText>Vous pouvez vous désinscrire à tout moment.</FooterSubText>
         <Form>
-          <FormInput name='email' type='email' placeholder='Your Email' />
-          <Button fontBig>Subscribe</Button>
+          <FormInput name='email' type='email' placeholder='Votre Email' />
+          <Button fontBig>Abonnez vous</Button>
         </Form>
       </FooterSubscription>
       <FooterLinksContainer>
         <FooterLinksWrapper>
           <FooterLinkItems>
-            <FooterLinkTitle>About Us</FooterLinkTitle>
-            <FooterLink to='/sign-up'>How it works</FooterLink>
-            <FooterLink to='/'>Testimonials</FooterLink>
-            <FooterLink to='/'>Careers</FooterLink>
-            <FooterLink to='/'>Investors</FooterLink>
-            <FooterLink to='/'>Terms of Service</FooterLink>
+            <FooterLinkTitle>Propos de nous</FooterLinkTitle>
+            <FooterLink to='/sign-up'>Comment ça marche</FooterLink>
+            <FooterLink to='/'>idées</FooterLink>
+            <FooterLink to='/'>carriéres</FooterLink>
+            <FooterLink to='/'>Investimenteurs</FooterLink>
+            <FooterLink to='/'>Les services</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
-            <FooterLinkTitle>Contact Us</FooterLinkTitle>
+            <FooterLinkTitle>Contactez nous</FooterLinkTitle>
             <FooterLink to='/'>Contact</FooterLink>
             <FooterLink to='/'>Support</FooterLink>
-            <FooterLink to='/'>Destinations</FooterLink>
-            <FooterLink to='/'>Sponsorships</FooterLink>
+            <FooterLink to='/'>Déstinations</FooterLink>
+            <FooterLink to='/'>Sponseurs</FooterLink>
           </FooterLinkItems>
         </FooterLinksWrapper>
         <FooterLinksWrapper>
           <FooterLinkItems>
-            <FooterLinkTitle>Videos</FooterLinkTitle>
-            <FooterLink to='/'>Submit Video</FooterLink>
-            <FooterLink to='/'>Ambassadors</FooterLink>
-            <FooterLink to='/'>Agency</FooterLink>
-            <FooterLink to='/'>Influencer</FooterLink>
+            <FooterLinkTitle>Vidéos</FooterLinkTitle>
+            <FooterLink to='/'>Ajouter Video</FooterLink>
+            <FooterLink to='/'>Ambassadeurs</FooterLink>
+            <FooterLink to='/'>Agence</FooterLink>
+            <FooterLink to='/'>Influenceur</FooterLink>
           </FooterLinkItems>
           <FooterLinkItems>
-            <FooterLinkTitle>Social Media</FooterLinkTitle>
+            <FooterLinkTitle>Média</FooterLinkTitle>
             <FooterLink to='/'>Instagram</FooterLink>
             <FooterLink to='/'>Facebook</FooterLink>
             <FooterLink to='/'>Youtube</FooterLink>
@@ -83,9 +83,9 @@ function Footer() {
         <SocialMediaWrap>
           <SocialLogo to='/'>
             <SocialIcon />
-            ULTRA
+            JCI
           </SocialLogo>
-          <WebsiteRights>ULTRA © {date.getFullYear()} </WebsiteRights>
+          <WebsiteRights>JCI © {date.getFullYear()} </WebsiteRights>
           <SocialIcons>
             <SocialIconLink href='/' target='_blank' aria-label='Facebook'>
               <FaFacebook />

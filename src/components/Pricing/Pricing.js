@@ -25,22 +25,23 @@ import {
     <IconContext.Provider value={{ color: '#a9b3c1', size: 64 }}>
       <PricingSection>
         <PricingWrapper>
-          <PricingHeading>Our Services</PricingHeading>
+          <PricingHeading>Nos Événements</PricingHeading>
           <PricingContainer>
+            
             <PricingCard to='/sign-up'>
               <PricingCardInfo>
                 <PricingCardIcon>
                   <GiRock />
                 </PricingCardIcon>
-                <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardPlan></PricingCardPlan>
+                <PricingCardCost>Sommet de la Francophonie</PricingCardCost>
+                <PricingCardLength></PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>100 New Users</PricingCardFeature>
-                  <PricingCardFeature>$10,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Retargeting analytics</PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature>un dîner, le 19 novembre, entre les sénateurs et les leaders de la JCI.</PricingCardFeature>
                 </PricingCardFeatures>
-                <Button primary>Choose Plan</Button>
+                <Button primary>Voir Plus</Button>
               </PricingCardInfo>
             </PricingCard>
             <PricingCard to='/sign-up'>
@@ -48,15 +49,15 @@ import {
                 <PricingCardIcon>
                   <GiCrystalBars />
                 </PricingCardIcon>
-                <PricingCardPlan>Gold Rush</PricingCardPlan>
-                <PricingCardCost>$299.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardPlan></PricingCardPlan>
+                <PricingCardCost>CAMO Gafsa</PricingCardCost>
+                <PricingCardLength></PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>1000 New Users</PricingCardFeature>
-                  <PricingCardFeature>$50,000 Budget</PricingCardFeature>
-                  <PricingCardFeature>Lead Gen Analytics</PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature>Nous sommes impatients de vous accueillir à Gafsa 🤩 Bienvenue chez #CAMO2022tunisie</PricingCardFeature>
                 </PricingCardFeatures>
-                <Button primary>Choose Plan</Button>
+                <Button primary>Voir Plus</Button>
               </PricingCardInfo>
             </PricingCard>
             <PricingCard to='/sign-up'>
@@ -64,15 +65,15 @@ import {
                 <PricingCardIcon>
                   <GiCutDiamond />
                 </PricingCardIcon>
-                <PricingCardPlan>Diamond Kings</PricingCardPlan>
-                <PricingCardCost>$999.99</PricingCardCost>
-                <PricingCardLength>per month</PricingCardLength>
+                <PricingCardPlan></PricingCardPlan>
+                <PricingCardCost>JCI Afrique Tunisie 2022</PricingCardCost>
+                <PricingCardLength></PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>Unlimited Users</PricingCardFeature>
-                  <PricingCardFeature>Unlimited Budget</PricingCardFeature>
-                  <PricingCardFeature>24/7 Support</PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature>Conférence JCI Afrique et Moyen-Orient Tunisie 2022</PricingCardFeature>
                 </PricingCardFeatures>
-                <Button primary>Choose Plan</Button>
+                <Button primary>Voir Plus</Button>
               </PricingCardInfo>
             </PricingCard>
           </PricingContainer>

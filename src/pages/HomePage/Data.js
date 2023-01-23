@@ -4,11 +4,11 @@ export const homeObjOne = {
     lightTopLine: true,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Marketing Agency',
-    headline: 'Lead Generation Specialist for Online Businesses',
+    topLine: 'Introduction',
+    headline: 'La Jeune Chambre Internationale (JCI)',
     description:
-      'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
-    buttonLabel: 'Get Started',
+      ' Visant à être le principal réseau mondial de jeunes citoyens actifs, la JCI se donne pour mission d’offrir les opportunités de développement nécessaires aux jeunes afin de leur donner la capacité de créer des «changements positifs». Chose que les membres de la JCI n’ont pas manqué de faire. Partout dans le monde, ils sont actifs, dynamiques, influents et occupent, généralement, des postes importants dans leurs sociétés respectives.Par ailleurs, l’exécution des programmes pour le «changement positif» et l’organisation des manifestations font également partie des activités de la JCI. ',
+    buttonLabel: 'Voir plus',
     imgStart: '',
     img: require('../../images/svg-1.svg'),
     alt: 'Credit Card',
@@ -38,14 +38,14 @@ export const homeObjOne = {
     lightTopLine: false,
     lightText: false,
     lightTextDesc: false,
-    topLine: 'Sarah Jeni',
+    topLine: 'Faouez Khannoussi',
     headline:
       'Ultra helped me increase my revenue by over 3X in less than 3 months!',
     description:
       "Their team is wonderful! I can't believe I didn't start working with them earlier.",
     buttonLabel: 'View Case Study',
     imgStart: 'start',
-    img: require('../../images/profile.jpg'),
+    img: require('../../images/op.jpg'),
     alt: 'Vault',
     start: 'true'
   };
